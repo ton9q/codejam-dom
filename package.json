@@ -1,0 +1,24 @@
+{
+  "name": "ton9q-2018q3",
+  "version": "1.0.0",
+  "description": "codejam",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/ton9q-2018Q3.git"
+  },
+  "author": "ton9q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/ton9q-2018Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/ton9q-2018Q3#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
